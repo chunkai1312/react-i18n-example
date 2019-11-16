@@ -20,3 +20,13 @@
 .App-link {
   color: #09d3ac;
 }
+
+.App-Footer {
+  margin-top: -100px;
+  font-size: calc(10px + 1vmin);
+  color: #cccccc;
+}
+
+.App-Locale {
+  cursor: pointer;
+}
